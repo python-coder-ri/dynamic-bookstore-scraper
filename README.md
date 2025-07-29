@@ -10,3 +10,6 @@ python full_script.py
 
 Creates CSV and Excel files with scraped book data.
 
+## Screenshot
+
+![Books Data From BooksToScrape.com.png](BooksToScrape.com.png)
